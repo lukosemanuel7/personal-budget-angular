@@ -11,16 +11,32 @@ const budget = {
     myBudget: [
         {
             title: 'Eat out',
-            budget: 25
+            budget: 50
         },
         {
             title: 'Rent',
-            budget: 275
+            budget: 350
         },
         {
-            title: 'Grocery',
-            budget: 110
+            title: 'Groceries',
+            budget: 70
         },
+        {
+            title: 'Insurance',
+            budget: 150
+        },
+        {
+            title: 'Internet',
+            budget: 40
+        },
+        {
+            title: 'Loan',
+            budget: 500
+        },
+        {
+            title: 'Misc',
+            budget: 50
+        }
     ]
 };
 
